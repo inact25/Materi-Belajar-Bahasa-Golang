@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Materi-Belajar-Bahasa-Golang.iml" filepath="$PROJECT_DIR$/.idea/Materi-Belajar-Bahasa-Golang.iml" />
       <module fileurl="file://$PROJECT_DIR$/inputData/inputData.iml" filepath="$PROJECT_DIR$/inputData/inputData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kondisi/kondisi.iml" filepath="$PROJECT_DIR$/kondisi/kondisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looping/looping.iml" filepath="$PROJECT_DIR$/looping/looping.iml" />
       <module fileurl="file://$PROJECT_DIR$/outputdata/outputData.iml" filepath="$PROJECT_DIR$/outputdata/outputData.iml" />
     </modules>
   </component>
